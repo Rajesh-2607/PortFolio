@@ -67,5 +67,5 @@ Chennai, Tamil Nadu
 
 - **Phone:** +91 9790934031
 - **Email:** [rajeshsv.182006@gmail.com](mailto:rajeshsv.182006@gmail.com)
-- **LinkedIn:** [RajeshS](https://linkedin.com/in/RajeshS)
-- **GitHub:** [Rajesh-260](https://github.com/Rajesh-260)
+- **LinkedIn:** [RajeshS](https://www.linkedin.com/in/rajeshs0415/)
+- **GitHub:** [Rajesh-2607](https://github.com/Rajesh-2607/)
