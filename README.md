@@ -1,10 +1,6 @@
 # Rajesh S - Portfolio
 
-<<<<<<< HEAD
-Backend & AI Developer in Chennai, Tamil Nadu.
-=======
 Backend & AI Developer 
->>>>>>> 9240294 (trigger deploy)
 
 Passionate about building things — from scalable backend systems to intelligent AI-powered applications. I love turning ideas into real, working products with clean code, thoughtful architecture, and end-to-end delivery.
 
