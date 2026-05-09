@@ -1,6 +1,6 @@
 # Rajesh S - Portfolio
 
-Backend & AI Developer based in Chennai, Tamil Nadu.
+Backend & AI Developer in Chennai, Tamil Nadu.
 
 Passionate about building things — from scalable backend systems to intelligent AI-powered applications. I love turning ideas into real, working products with clean code, thoughtful architecture, and end-to-end delivery.
 
