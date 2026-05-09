@@ -21,13 +21,19 @@ Passionate about building things — from scalable backend systems to intelligen
 ## 💼 Work Experience
 
 **Backend Developer Intern | Upstride**  
-*Nov 2024 - Jan 2025 · Chennai, India*
+*Nov 2025 - Jan 2026 · Chennai, India*
 - Built and maintained production-grade REST APIs using Python and FastAPI to power backend ML workflows
 - Performed data preprocessing and feature engineering for real-world ML tasks including cleaning, scaling, and transformation
 - Evaluated, tuned, and optimised ML models improving accuracy and reliability for deployment
 - Developed React frontend components with component-based design and GenUI integration to surface model insights
 - Conducted unit testing and debugging to ensure robust, production-ready backend features
 - Documented data pipelines, model workflows, and API endpoints for team maintainability and reference
+
+**AI Chatbot Developer | Loyola Institute of Business Administration (LIBA)**  
+*Aug 2025 - Sep 2025 · Chennai, India*
+- Architected and deployed a production RAG-based FAQ chatbot on liba.edu, reducing manual query handling by ~30% through API design and cloud deployment on AWS EC2.
+- Integrated GPT-4o for NLU and FAISS vector search for context retrieval; improved chatbot response accuracy by ~20% via prompt tuning and context ranking.
+- Designed microservices-style query processing pipeline with fallback handling; conducted unit testing to ensure robust, production-ready responses.
 
 ## 🚀 Projects
 
